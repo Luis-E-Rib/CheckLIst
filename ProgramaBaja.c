@@ -39,7 +39,7 @@ int main() {
             break;
         }
 
-        // Relatório
+        // RelatÃ³rio
         if (volta % 20 == 0) {
             printf("\n--- RELATORIO DE STATUS NA VOLTA %d ---\n", volta);
             printf("Suspensao: %.2f%%\n", suspensao);
