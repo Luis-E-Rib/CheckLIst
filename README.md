@@ -1,2 +1,2 @@
-# CheckLIst
+# CheckList
 CheckList Imperador
